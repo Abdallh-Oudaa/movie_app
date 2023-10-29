@@ -7,7 +7,8 @@ class HomeTap extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Container(
-        color: Colors.purple,
-        child: Text("hi"),)
+
+        color: Colors.white,
+        child:Text("Home page",))
     );
 }}
